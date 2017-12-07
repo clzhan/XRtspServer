@@ -1,7 +1,7 @@
 package stream_server
 
 import (
-	"nqc.cn/XRtspServer/rtsp"
+	"github.com/clzhan/XRtspServer/rtsp"
 	"sync"
 )
 
